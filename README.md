@@ -27,7 +27,7 @@ It's a free application, which serves as a comprehensive guide for every refugee
 
 ## Screenshots
 <img width="200" src="https://github.com/talal1abdalruhman/Refugees/blob/master/1.jpeg">  <img width="200" src="https://github.com/talal1abdalruhman/Refugees/blob/master/2.jpeg">  <img width="200" src="https://github.com/talal1abdalruhman/Refugees/blob/master/3.jpeg"> 
-<img width="200" src="https://github.com/talal1abdalruhman/Refugees/blob/master/4.jpeg">  <img width="200" src="https://github.com/talal1abdalruhman/Refugees/blob/master/7.jpeg">  <img width="200" src="https://github.com/talal1abdalruhman/Refugees/blob/master/8.jpeg">  <img width="200" src="https://github.com/Fox-Immortal/Refugees/blob/master/screenshot.jpeg">  <img width="200" src="https://github.com//Refugees/blob/master/15.jpeg">
+<img width="200" src="https://github.com/talal1abdalruhman/Refugees/blob/master/4.jpeg">  <img width="200" src="https://github.com/talal1abdalruhman/Refugees/blob/master/7.jpeg">  <img width="200" src="https://github.com/talal1abdalruhman/Refugees/blob/master/8.jpeg">  <img width="200" src="https://github.com/Fox-Immortal/Refugees/blob/master/screenshot.jpg">  <img width="200" src="https://github.com//Refugees/blob/master/15.jpeg">
 
 # 
 ### This project was done in collaboration with [Fox-Immortal](https://github.com/talal1abdalruhman)

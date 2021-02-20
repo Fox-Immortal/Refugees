@@ -30,5 +30,5 @@ It's a free application, which serves as a comprehensive guide for every refugee
 <img width="200" src="https://github.com/talal1abdalruhman/Refugees/blob/master/4.jpeg">  <img width="200" src="https://github.com/talal1abdalruhman/Refugees/blob/master/7.jpeg">  <img width="200" src="https://github.com/talal1abdalruhman/Refugees/blob/master/8.jpeg">  <img width="200" src="https://github.com/talal1abdalruhman/Refugees/blob/master/29.jpeg">  <img width="200" src="https://github.com/talal1abdalruhman/Refugees/blob/master/15.jpeg">
 
 # 
-### This project was done in collaboration with [Fox-Immortal](https://github.com/Fox-Immortal)
+### This project was done in collaboration with [Fox-Immortal](https://github.com/talal1abdalruhman)
 ### APK Link: [Here](https://drive.google.com/drive/u/1/folders/1ple4IUtaawCs9oktrVo3zyMQLI75cjlR)
